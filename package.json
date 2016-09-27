@@ -1,0 +1,11 @@
+{
+	"name": "genscape",
+	"version": "1.0.0",
+	"description": "Solution to Genscape's coding test for Senior Front end developer/designer position.",
+	"main": "script.js",
+	"dependencies": {
+		"lodash": "3.10.1"
+	},
+	"devDependencies": {},
+	"author": "Zafar Saleem"
+}
