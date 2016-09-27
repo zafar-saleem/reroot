@@ -1,5 +1,3 @@
-(This text is best viewed in a monospace font.)
-
 This exercise is about an operation on a tree data structure.
 
 Concepts
